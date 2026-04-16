@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-2D6A4F?style=flat-square&logo=googlechrome&logoColor=white)](https://freyamaly.github.io)
 </div>
 
-**Hi there!** I'm Freya, a PhD student in Quantitative Biomedical Sciences at Dartmouth. I work in the [AIM-HIGH Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) (AI and Mental Health: Innovation in Technology-Guided Healthcare), advised by Prof. Nicholas Jacobson. My research focuses on **reinforcement learning for dialogue alignment**, **multi-judge LLM evaluation**, and **passive behavioral sensing**.
+**Hi there!** I'm Freya, a PhD student in Quantitative Biomedical Sciences at Dartmouth. I work in the [AIM-HIGH Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) (AI and Mental Health: Innovation in Technology-Guided Healthcare), advised by Prof. Nicholas C. Jacobson. My research focuses on **reinforcement learning for dialogue alignment**, **multi-judge LLM evaluation**, and **passive behavioral sensing**.
 
 ---
 
