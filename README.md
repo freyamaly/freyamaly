@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=8000&pause=2500&color=2D6A4F&center=true&vCenter=true&width=500&lines=PhD+Student+%40+Dartmouth;Reinforcement+Learning+for+Dialogue+Alignment;Multi-Judge+LLM+Evaluation;Building+Evergreen+%F0%9F%8C%B2;Passive+Behavioral+Sensing" alt="Typing SVG" /></a>
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1B4D3E?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)&nbsp;
-[![Email](https://img.shields.io/badge/Email-2D6A4F?style=flat-square&logo=gmail&logoColor=white)](mailto:freyabellama@gmail.com)
+[![Email](https://img.shields.io/badge/Email-2D6A4F?style=flat-square&logo=gmail&logoColor=white)](mailto:guofang.ma.gr@dartmouth.edu)
 </div>
 
 **Hi there!** I'm Freya, a PhD student in Quantitative Biomedical Sciences at Dartmouth. I work in the [AIM-HIGH Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) (AI and Mental Health: Innovation in Technology-Guided Healthcare), advised by Prof. Nicholas Jacobson. My research focuses on **reinforcement learning for dialogue alignment**, **multi-judge LLM evaluation**, and **passive behavioral sensing**.
